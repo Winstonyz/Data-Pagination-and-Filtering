@@ -1,2 +1,2 @@
-# TreeHouseProject2
-Project 2 of treeHouse tech degree program
+# Data Pagination and Filtering
+a student directory
